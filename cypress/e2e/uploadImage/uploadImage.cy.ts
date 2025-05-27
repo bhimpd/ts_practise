@@ -13,4 +13,5 @@ describe('Image Upload Tests (TS POM)', () => {
   it('Should upload image using drag and drop', () => {
     uploadImagePage.visitAndUploadDragDrop();
   });
+  
 });
